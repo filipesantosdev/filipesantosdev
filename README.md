@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá!Eu sou o Filipe Santos👋
 
-<!--
-**filipesantosdev/filipesantosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante Front-End`**
 
-Here are some ideas to get you started:
+🎯 Atualmente, estudo desenvolvimento front-end com foco em HTML, CSS, JavaScript e boas práticas de UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estou praticando com projetos próprios, desafios do Frontend Mentor e cursos online.
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/filipe-santos-a49b57375/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
