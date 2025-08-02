@@ -28,11 +28,6 @@ Olá!Eu sou o Filipe Santos👋
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Santozfl/Santozfl/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
