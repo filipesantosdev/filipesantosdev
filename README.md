@@ -1,4 +1,4 @@
-Olá! Eu sou o Filipe Santos👋
+<h1>👋 Olá! Eu sou o Filipe Santos</h1>
 
 **`Estudante Front-End`**
 
@@ -6,7 +6,7 @@ Olá! Eu sou o Filipe Santos👋
 
 📚 Estou praticando com projetos próprios, desafios do Frontend Mentor e cursos online.
 
-  **` Linguagens e Ferramentas`**
+   <h2> Linguagens e Ferramentas </h2>
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJjZWk0Y29lczU1cTRjdzljd3E4cnYwenBiam54eHA0MHdsenA5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
 
 ###
@@ -23,7 +23,7 @@ Olá! Eu sou o Filipe Santos👋
 
 ###
  
-  **` Outras redes`**
+   <h2> Outras redes </h2>
   
 
 <div align="left">
