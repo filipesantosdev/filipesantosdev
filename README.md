@@ -1,4 +1,4 @@
-Olá!Eu sou o Filipe Santos👋
+Olá! Eu sou o Filipe Santos👋
 
 **`Estudante Front-End`**
 
@@ -6,6 +6,7 @@ Olá!Eu sou o Filipe Santos👋
 
 📚 Estou praticando com projetos próprios, desafios do Frontend Mentor e cursos online.
 
+  **` Linguagens e Ferramentas`**
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJjZWk0Y29lczU1cTRjdzljd3E4cnYwenBiam54eHA0MHdsenA5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
 
 ###
@@ -21,12 +22,17 @@ Olá!Eu sou o Filipe Santos👋
 </div>
 
 ###
+ 
+  **` Outras redes`**
+  
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
+
+
 
 
 
