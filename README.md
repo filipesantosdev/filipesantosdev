@@ -53,5 +53,20 @@
       </td>
     </tr>
   </table>
+<div align="center">
+  <a href="https://www.linkedin.com/in/filipe-santos-a49b57375/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-56008c?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://web.dio.me/users/filipeflavio_laura125?tab=achievements" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/DIO-Achievements-56008c?style=for-the-badge&logo=dio&logoColor=white" 
+      alt="DIO Achievements"
+    />
+  </a>
+</div>
 
 </div>
